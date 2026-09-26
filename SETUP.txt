@@ -1,0 +1,20 @@
+GITHUB PROFILE SETUP
+
+1. Open or create the public repository:
+   https://github.com/AbdullahChaudhary0/AbdullahChaudhary0
+2. Put README.md, dark_mode.svg, and light_mode.svg in the repository root.
+   Do not place these three files inside a nested folder.
+3. Commit the files to the repository's default branch.
+4. Visit https://github.com/AbdullahChaudhary0 to see the profile.
+
+EDITING
+
+The visible introduction is stored in the SVGs, not in README.md.
+To change the text easily, edit PROFILE in build_profile.py and run:
+    python3 build_profile.py
+Then upload the regenerated SVGs. Python uses only its standard library.
+Keep portrait.txt beside the script. You may upload these source files too.
+
+The design includes the ASCII portrait supplied in the chat, with Markdown
+escape backslashes removed. It includes no live statistics or automation.
+On narrow screens the image scales down; open the image to view it larger.
