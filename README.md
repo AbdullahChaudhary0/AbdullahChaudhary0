@@ -7,5 +7,5 @@
 <p align="center">
   <a href="https://github.com/AbdullahChaudhary0?tab=repositories">Explore my repositories</a>
   &nbsp; / &nbsp;
-  <a href="https://github.com/AbdullahChaudhary0/Spam-Email-Detection-with-Logistic-Regression">Spam detection project</a>
+  <a href="https://github.com/AbdullahChaudhary0/rl-environment">Spam detection project</a>
 </p>
